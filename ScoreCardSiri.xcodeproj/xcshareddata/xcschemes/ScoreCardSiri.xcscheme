@@ -20,6 +20,34 @@
                ReferencedContainer = "container:ScoreCardSiri.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4B9133681E791F11002E5251"
+               BuildableName = "ScoreCardSiriTests.xctest"
+               BlueprintName = "ScoreCardSiriTests"
+               ReferencedContainer = "container:ScoreCardSiri.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4B9133731E791F11002E5251"
+               BuildableName = "ScoreCardSiriUITests.xctest"
+               BlueprintName = "ScoreCardSiriUITests"
+               ReferencedContainer = "container:ScoreCardSiri.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
