@@ -33,4 +33,19 @@ class ScoreCardSiriUITests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
+    
+    func testClikedEvent()
+    {
+        let app = XCUIApplication()
+        let hearSpeakButton = app.buttons["Hear & Speak"]
+        hearSpeakButton.tap()
+        hearSpeakButton.tap()
+        
+        let image = app.otherElements.containing(.button, identifier:"Hear & Speak").children(matching: .image).element(boundBy: 0)
+        image.tap()
+        image.tap()
+        image.tap()
+        
+    }
+    
 }
