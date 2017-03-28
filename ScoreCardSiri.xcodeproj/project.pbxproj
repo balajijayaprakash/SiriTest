@@ -1053,7 +1053,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
 				DEVELOPMENT_TEAM = JE77DS3VE4;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.mobile.tdi.dal.raapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1072,7 +1072,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
 				DEVELOPMENT_TEAM = JE77DS3VE4;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.mobile.tdi.dal.raapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
