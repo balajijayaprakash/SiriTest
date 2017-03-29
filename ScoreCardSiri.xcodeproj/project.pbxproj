@@ -1071,6 +1071,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Amgen";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
 				DEVELOPMENT_TEAM = JE77DS3VE4;
+				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
