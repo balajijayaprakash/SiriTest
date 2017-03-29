@@ -724,7 +724,7 @@
 				TargetAttributes = {
 					4B9133541E791F11002E5251 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = JE77DS3VE4;
+						DevelopmentTeam = UQ629QBU2E;
 						ProvisioningStyle = Manual;
 					};
 					4B9133681E791F11002E5251 = {
@@ -967,8 +967,8 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Amgen";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -990,8 +990,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "4b486fbb-2a7b-4035-9d8a-2c695abd241a";
-				PROVISIONING_PROFILE_SPECIFIER = "TDI DAL RAPP";
+				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
+				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
@@ -1020,8 +1020,8 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Amgen";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -1036,8 +1036,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "4b486fbb-2a7b-4035-9d8a-2c695abd241a";
-				PROVISIONING_PROFILE_SPECIFIER = "TDI DAL RAPP";
+				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
+				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
 				SDKROOT = iphoneos;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -1049,16 +1049,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Amgen";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
-				DEVELOPMENT_TEAM = JE77DS3VE4;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				DEVELOPMENT_TEAM = UQ629QBU2E;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.mobile.tdi.dal.raapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.siritest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4b486fbb-2a7b-4035-9d8a-2c695abd241a";
-				PROVISIONING_PROFILE_SPECIFIER = "TDI DAL RAApp";
+				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
+				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
@@ -1068,17 +1068,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Amgen";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Amgen";
-				DEVELOPMENT_TEAM = JE77DS3VE4;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				DEVELOPMENT_TEAM = UQ629QBU2E;
 				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.mobile.tdi.dal.raapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.siritest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4b486fbb-2a7b-4035-9d8a-2c695abd241a";
-				PROVISIONING_PROFILE_SPECIFIER = "TDI DAL RAApp";
+				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
+				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
