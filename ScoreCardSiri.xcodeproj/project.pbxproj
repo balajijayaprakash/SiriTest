@@ -990,7 +990,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
+				PROVISIONING_PROFILE = "939e87a5-db35-4f1f-a225-a56581e2d32c";
 				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -1036,7 +1036,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
+				PROVISIONING_PROFILE = "939e87a5-db35-4f1f-a225-a56581e2d32c";
 				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
 				SDKROOT = iphoneos;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
@@ -1050,7 +1050,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = UQ629QBU2E;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
@@ -1069,7 +1069,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Bhakeeswaran Thulasingam (J8AE4939MT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = UQ629QBU2E;
 				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
