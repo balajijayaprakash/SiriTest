@@ -1055,10 +1055,10 @@
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.siritest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.dal.nplate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
-				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
+				PROVISIONING_PROFILE = "ed8c6071-7dd0-4d99-a160-f50b7ff05d72";
+				PROVISIONING_PROFILE_SPECIFIER = AmgenNplate;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
@@ -1075,10 +1075,10 @@
 				INFOPLIST_FILE = ScoreCardSiri/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.siritest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amgen.dal.nplate;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "48946339-cfef-47a8-b167-337450e839ce";
-				PROVISIONING_PROFILE_SPECIFIER = OffshoreDev;
+				PROVISIONING_PROFILE = "ed8c6071-7dd0-4d99-a160-f50b7ff05d72";
+				PROVISIONING_PROFILE_SPECIFIER = AmgenNplate;
 				SWIFT_OBJC_BRIDGING_HEADER = "ScoreCardSiri/ScoreCardSiri-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
